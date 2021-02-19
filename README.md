@@ -5,3 +5,4 @@ For design docs and user guide, see [BlogLite Wiki](https://github.com/ljl-geek/
 
 The project plan will be in [BlogLite Initial Development](https://github.com/ljl-geek/BlogLite/projects/1)
 
+No, there's no actual code here yet. I may end up picking at this for years.
